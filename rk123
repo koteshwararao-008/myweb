@@ -9,3 +9,6 @@ docker
 kubernetes
 nexus
 ansible
+git fetch always followed by git merge command
+git fetch is the not shown the details when committed in the github account
+in real time git pull is used
